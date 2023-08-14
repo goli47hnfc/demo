@@ -1,2 +1,0 @@
-#LICENCE
-## APACHE 3.0
